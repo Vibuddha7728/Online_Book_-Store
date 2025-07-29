@@ -61,4 +61,4 @@ Run the Project
 
 Open your browser and go to:
 
-http://localhost/pageturner-bookstore/
+http://localhost/Book-store/login.php
